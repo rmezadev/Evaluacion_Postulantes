@@ -1,0 +1,5 @@
+{
+  "name": "Excel Evaluation Manager - LIVIGUI PERU SAC",
+  "description": "A technical assessment platform for Excel proficiency. Features role-based access for admins and applicants, persistent 45-minute countdown timers, and automated submission tracking.",
+  "requestFramePermissions": []
+}
